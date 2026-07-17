@@ -1,11 +1,11 @@
 {
   "product": "Dim Buddy",
-  "version": "0.9.0-beta.4",
+  "version": "0.9.0-beta.5",
   "channel": "beta",
   "minimumSolidWorksVersion": 2024,
-  "downloadUrl": "https://github.com/vapor162/DimBuddy-Releases/raw/refs/heads/main/downloads/DimBuddy-0.9.0-beta.4.zip",
+  "downloadUrl": "https://github.com/vapor162/DimBuddy-Releases/raw/refs/heads/main/downloads/DimBuddy-0.9.0-beta.5.zip",
   "releasePageUrl": "https://github.com/vapor162/DimBuddy-Releases",
-  "sha256": "4c54ddbc0d0365e2776f399d8d5aff2fa22694cf8918ba4d1cd4ec1cafaa1031",
-  "notes": "Validation build for the complete check, download, and in-place upgrade workflow.",
+  "sha256": "49cca68747e4d20c5c47c9ad8f437f74a8c3634648fc3688f60899a3c09c1623",
+  "notes": "Prevents stale update results by bypassing GitHub and proxy caches.",
   "publishedUtc": "2026-07-16T00:00:00Z"
 }
