@@ -1,11 +1,11 @@
 {
   "product": "Dim Buddy",
-  "version": "0.9.0-beta.3",
+  "version": "0.9.0-beta.4",
   "channel": "beta",
   "minimumSolidWorksVersion": 2024,
-  "downloadUrl": "https://github.com/vapor162/DimBuddy-Releases/raw/refs/heads/main/downloads/DimBuddy-0.9.0-beta.3.zip",
+  "downloadUrl": "https://github.com/vapor162/DimBuddy-Releases/raw/refs/heads/main/downloads/DimBuddy-0.9.0-beta.4.zip",
   "releasePageUrl": "https://github.com/vapor162/DimBuddy-Releases",
-  "sha256": "c5fafcb404c479f61a4fe089983e347ca59c144a47291bb4e3c208de260fd9ab",
-  "notes": "Adds an in-app update checker in the Dim Buddy Settings section.",
+  "sha256": "4c54ddbc0d0365e2776f399d8d5aff2fa22694cf8918ba4d1cd4ec1cafaa1031",
+  "notes": "Validation build for the complete check, download, and in-place upgrade workflow.",
   "publishedUtc": "2026-07-16T00:00:00Z"
 }
