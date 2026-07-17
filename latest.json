@@ -1,0 +1,11 @@
+{
+  "product": "Dim Buddy",
+  "version": "0.9.0-beta.1",
+  "channel": "beta",
+  "minimumSolidWorksVersion": 2024,
+  "downloadUrl": "https://github.com/vapor162/DimBuddy-Release/raw/refs/heads/main/downloads/DimBuddy-0.9.0-beta.1.zip",
+  "releasePageUrl": "https://github.com/vapor162/DimBuddy-Release",
+  "sha256": "b22031dd1bba2c97e4a33a25b36ef0425cb7b4394157fea472cd673c8aee7152",
+  "notes": "First versioned beta package with rollback-safe in-place upgrades.",
+  "publishedUtc": "2026-07-16T00:00:00Z"
+}
