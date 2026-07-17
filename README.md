@@ -8,7 +8,7 @@ source code and the legacy VB.NET project are maintained separately.
 
 ## Current beta
 
-- Version: `0.9.0-beta.1`
+- Version: `0.9.0-beta.2`
 - SOLIDWORKS: 2024 or later
 - Windows: 64-bit
 - Runtime: .NET Framework 4.8
