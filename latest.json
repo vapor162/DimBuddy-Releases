@@ -1,11 +1,11 @@
 {
   "product": "Dim Buddy",
-  "version": "0.9.0-beta.6",
+  "version": "0.9.0-beta.7",
   "channel": "beta",
   "minimumSolidWorksVersion": 2024,
-  "downloadUrl": "https://github.com/vapor162/DimBuddy-Releases/raw/refs/heads/main/downloads/DimBuddy-0.9.0-beta.6.zip",
+  "downloadUrl": "https://github.com/vapor162/DimBuddy-Releases/raw/refs/heads/main/downloads/DimBuddy-0.9.0-beta.7.zip",
   "releasePageUrl": "https://github.com/vapor162/DimBuddy-Releases",
-  "sha256": "acbd15f835792694657bfa174d6b588eac6ee0e8c17f2a6b3e1bab8866bed6f1",
-  "notes": "Final validation build for the cache-safe update workflow.",
-  "publishedUtc": "2026-07-16T00:00:00Z"
+  "sha256": "92b7287c8051f396afbe2bd292e31000c1a4dcab4c0147632292ddca78c6f26f",
+  "notes": "Polished task-pane palette, modern compact settings, persistent section reordering, and a configurable Show Dim Buddy keyboard command.",
+  "publishedUtc": "2026-07-18T19:36:49Z"
 }
