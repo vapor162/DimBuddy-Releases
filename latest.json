@@ -1,11 +1,11 @@
 {
   "product": "Dim Buddy",
-  "version": "0.9.0-beta.7",
+  "version": "0.9.0-beta.8",
   "channel": "beta",
   "minimumSolidWorksVersion": 2024,
-  "downloadUrl": "https://github.com/vapor162/DimBuddy-Releases/raw/refs/heads/main/downloads/DimBuddy-0.9.0-beta.7.zip",
+  "downloadUrl": "https://github.com/vapor162/DimBuddy-Releases/raw/refs/heads/main/downloads/DimBuddy-0.9.0-beta.8.zip",
   "releasePageUrl": "https://github.com/vapor162/DimBuddy-Releases",
-  "sha256": "92b7287c8051f396afbe2bd292e31000c1a4dcab4c0147632292ddca78c6f26f",
-  "notes": "Polished task-pane palette, modern compact settings, persistent section reordering, and a configurable Show Dim Buddy keyboard command.",
-  "publishedUtc": "2026-07-18T19:36:49Z"
+  "sha256": "35137c7e72574d0d5360c7f6dcbcbca8f9f1824261960e39bf739ae8c47a2b90",
+  "notes": "Responsive DPI-aware task pane, denser adaptive controls, monitor-safe dialogs, toolbar overflow, native or classic FCF editor choice, sharper logo assets, and refined Dark and Embers themes.",
+  "publishedUtc": "2026-09-04T22:37:01Z"
 }

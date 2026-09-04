@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vapor162/DimBuddy-Releases/raw/refs/heads/main/downloads/DimBuddy-0.9.0-beta.7.zip"><strong>Download Dim Buddy 0.9.0-beta.7</strong></a>
+  <a href="https://github.com/vapor162/DimBuddy-Releases/raw/refs/heads/main/downloads/DimBuddy-0.9.0-beta.8.zip"><strong>Download Dim Buddy 0.9.0-beta.8</strong></a>
 </p>
 
 ## The task pane
@@ -84,7 +84,7 @@ something needs attention.
 - Select the macro entry point and assign a custom name and icon
 - Pin frequently used tools to Favorites
 - Reorder, expand, collapse, and remember task-pane sections
-- Choose Dark, Light, or system-aware themes and multiple densities
+- Choose Dark, Embers, Light, or system-aware themes and multiple densities
 - Use the task pane, toolbars, or customizable CommandManager commands
 
 ## Compatibility
@@ -98,7 +98,7 @@ and SOLIDWORKS 2026.
 
 ## Install or update
 
-1. [Download the current beta ZIP](https://github.com/vapor162/DimBuddy-Releases/raw/refs/heads/main/downloads/DimBuddy-0.9.0-beta.7.zip).
+1. [Download the current beta ZIP](https://github.com/vapor162/DimBuddy-Releases/raw/refs/heads/main/downloads/DimBuddy-0.9.0-beta.8.zip).
 2. Close SOLIDWORKS.
 3. Extract the ZIP to a permanent local folder.
 4. Run `Install-DimBuddy.cmd` as administrator.
@@ -112,8 +112,8 @@ software may ask you to confirm that you trust the download.
 
 ## Release information
 
-- Current beta: `0.9.0-beta.7`
-- SHA-256: `92b7287c8051f396afbe2bd292e31000c1a4dcab4c0147632292ddca78c6f26f`
+- Current beta: `0.9.0-beta.8`
+- SHA-256: `35137c7e72574d0d5360c7f6dcbcbca8f9f1824261960e39bf739ae8c47a2b90`
 - Update metadata: [`latest.json`](latest.json)
 
 This public repository contains release packages, screenshots, and update
